@@ -1,4 +1,4 @@
-# Project Title
+# Anticipated Graduation Salary Generator
 
 Brief Project Description
 
