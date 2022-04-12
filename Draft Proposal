@@ -139,7 +139,8 @@ April 2023 Senior Project Defense
 | Description:   | The project front end will have a dropdown for all majors located inside the United States. This dropdown will be sorted alphabetically and be able to take string input to help find college. This information will be updated by the MySQL database.                                                                                                                                                |
 | Rationale:     | The program needs to be able to access majors in order to accurately find the estimated starting salary.                                                                                                                                                            |
 | Fit Criterion: | QA testing proving that when certain characters are input or the dropdown menu is scrolled, that it shows the proper data.                                                                                                                                                                          |
-| Priority:      | High                                                                                                                                                                                                                                                                                                                                          |
+| Priority:      | High 
+
 | ID \#:         | 26                                                                                                                                                                                                                                                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Type:          | Functional                                                                                                                                                                                                                                                                                                                                    |
@@ -147,7 +148,6 @@ April 2023 Senior Project Defense
 | Rationale:     | The program needs to be able to access majors in order to accurately find the estimated starting salary.                                                                                                                                                            |
 | Fit Criterion: | 95% CI that the salary reflects the expected mean of starting salaries for that profession and location.                                                                                                                                                                         |
 | Priority:      | High                         
-
 | Dependencies:  |                                                                                                                                                                                                                                                                                                                                                           |
 
 | ID \#:         | 27                                                                                                                                                                                                                                                                                                                                          |
@@ -157,7 +157,6 @@ April 2023 Senior Project Defense
 | Rationale:     | The program needs to be able to these in order to accurately find the estimated starting salary.                                                                                                                                                            |
 | Fit Criterion: | QA testing showing that the database contains the above stated categories. I am the QA.                                                                                                                                                                         |
 | Priority:      | High                         
-
 | Dependencies:  |                                                                                                                                                                                                                                                                                                                                                           |
 
 | ID \#:         | 28                                                                                                                                                                                                                                                                                                                                     |
@@ -167,7 +166,6 @@ April 2023 Senior Project Defense
 | Rationale:     | In order to predict what the starting salary of schools that do not provide this information, known school salary information must be used.                                                                                                                                                            |
 | Fit Criterion: | QA testing showing that the database contains the above stated categories. I am the QA.                                                                                                                                                                         |
 | Priority:      | High                         
-
 | Dependencies:  |                                                                                                                                                                                                                                                                                                                                                           |
 
 | ID \#:         | 29                                                                                                                                                                                                                                                                                                                                |
@@ -177,7 +175,6 @@ April 2023 Senior Project Defense
 | Rationale:     | In order to predict what the starting salary of schools that do not provide this information, known school salary information must be used.                                                                                                                                                            |
 | Fit Criterion: | QA testing showing that the database contains the above stated categories. I am the QA.                                                                                                                                                                         |
 | Priority:      | High                         
-
 | Dependencies:  |                                                                                                                                                                                                                                                                                                                                                           |
 
 | ID \#:         | 30                                                                                                                                                                                                                                                                                                                                |
@@ -187,7 +184,6 @@ April 2023 Senior Project Defense
 | Rationale:     | In order to predict what the starting salary of schools that do not provide this information, known school salary information must be used.                                                                                                                                                            |
 | Fit Criterion: | QA testing showing that the database contains mined data. I am the QA.                                                                                                                                                                         |
 | Priority:      | High                         
-
 | Dependencies:  |                                                                                                                                                                                                                                                                                                                                                           |
 
 | ID \#:         | 31                                                                                                                                                                                                                                                                                                                                |
@@ -197,7 +193,6 @@ April 2023 Senior Project Defense
 | Rationale:     | In order to predict what the starting salary of schools that do not provide this information, known school salary information must be used.                                                                                                                                                            |
 | Fit Criterion: | QA testing showing that the database contains mined data. I am the QA.                                                                                                                                                                         |
 | Priority:      | High                         
-
 | Dependencies:  |                                                                                                                                                                                                                                                                                                                                                           |        
 
 | ID \#:         | 32                                                                                                                                                                                                                                                                                                                                |
@@ -207,7 +202,6 @@ April 2023 Senior Project Defense
 | Rationale:     | The product will be useless without an accurate calculation of this data.                                                                                                                                                            |
 | Fit Criterion: | The salary will be fall within a 95% CI of the expected starting salary based upon preknown information.                                                                                                                                                                         |
 | Priority:      | High                         
-
 | Dependencies:  |                                                                                                                                                                                                                                                                                                                                                           |            
 
 | ID \#:         | 2                                                                                                                                                                                                                                                                                                                                             |
